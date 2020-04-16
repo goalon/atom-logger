@@ -1,5 +1,12 @@
 # atom-logger package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+```
+1. git clone https://github.com/goalon/atom-logger
+2. apm install
+3. apm link
+4. Reopen atom
+5. Open a file
+6. Toggle atom-logger from the "Packages" menu
+7. Write something in the opened file
+8. Click "atom-logger/Show Logs" from the "Packages" menu
+```
